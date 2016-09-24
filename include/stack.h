@@ -1,4 +1,3 @@
-#ifndef STACK1_H_
 #pragma once
 #include <iostream>
 
@@ -22,4 +21,3 @@ public:
 	auto operator=(const stack&tmp)->stack&;
 //	auto print()->void;
 };
-#endif 
