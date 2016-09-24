@@ -20,6 +20,6 @@ public:
 	auto pop()->T;
 	auto top() const->T&;
 	auto operator=(const stack&tmp)->stack&;
-	auto print()->void;
+//	auto print()->void;
 };
 #endif 
