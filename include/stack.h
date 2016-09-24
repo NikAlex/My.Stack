@@ -22,4 +22,4 @@ public:
 	auto operator=(const stack&tmp)->stack&;
 	auto print()->void;
 };
-#endif
+#endif 
